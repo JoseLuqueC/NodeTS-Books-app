@@ -24,7 +24,7 @@
   "homepage": "https://github.com/JoseLuqueC/NodeTS-Books-app#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "express-handlebars": "^3.0.0",
+    "express-handlebars": "^5.3.1",
     "method-override": "^3.0.0",
     "mongoose": "^5.9.15"
   },
